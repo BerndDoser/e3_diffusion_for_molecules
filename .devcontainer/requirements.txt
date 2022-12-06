@@ -1,0 +1,9 @@
+ase>=3.22.1
+ipykernel
+nbformat
+numpy>=1.21.6
+pandas
+plotly
+rdkit
+scikit-learn>=1.0.2
+torch>=1.11.0

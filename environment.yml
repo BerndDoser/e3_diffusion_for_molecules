@@ -1,0 +1,16 @@
+name: e3_diffusion
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - imageio
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.8
+  - rdkit
+  - scikit-learn
+  - scipy
+  - pytorch
+  - torchvision
+  - wandb
